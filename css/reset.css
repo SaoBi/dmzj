@@ -11,6 +11,7 @@ html{
     -ms-text-size-adjust: 100%;
 	-webkit-font-smoothing:antialiased;
 }
+
 body{
 	margin:0;
 	padding:0;
@@ -192,7 +193,6 @@ audio:not([controls]){
 nav ul,
 nav ol {
     list-style: none;
-    list-style-image: none;
 }
 input[type="search"]{
     -webkit-appearance: textfield;
